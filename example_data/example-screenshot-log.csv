@@ -1,0 +1,6 @@
+screenshot_id,url,device,viewport_width,viewport_height,full_page,timestamp,file_size_kb
+scr001,https://example.com/,desktop,1920,1080,true,2024-01-15T10:30:00Z,245
+scr002,https://example.com/,mobile,375,812,true,2024-01-15T10:30:15Z,128
+scr003,https://example.com/products,desktop,1920,1080,false,2024-01-15T10:31:00Z,312
+scr004,https://example.com/about,tablet,768,1024,true,2024-01-15T10:31:30Z,186
+scr005,https://competitor.com/,desktop,1920,1080,true,2024-01-15T10:32:00Z,298
